@@ -2,7 +2,7 @@
 #### $ pip install -r requirements.txt
 
 ## Instalar ChromeDriver
-#### Pagina para download -> https://chromedriver.storage.googleapis.com/index.html?path=74.0.3729.6
+#### Pagina para download -> https://chromedriver.storage.googleapis.com/index.html?path=74.0.3729.6/
 
 #### Instalar conforme o sistema operacional
 #### Descompactar a pasta
